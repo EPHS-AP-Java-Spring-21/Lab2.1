@@ -14,6 +14,12 @@ public class Student
     this.name = name;
     grade = -1;
   }
+
+  public Student(int grade)
+  {
+    name = "Unknown";
+    this.grade = grade;
+  }
   
   public Student(String name, int grade)
   {
