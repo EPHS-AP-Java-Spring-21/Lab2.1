@@ -89,4 +89,4 @@ Your program should output the name and grade of 4 different students. Each on i
 
 ## Turning it in
 
-When you have finished this lab, upload the StudentFactory.java file to [turnerinner.com/@mrmaycs](https://turnerinner.com/@mrmaycs)
+When you have finished this lab, upload the StudentFactory.java file to [our dropbox folder](https://www.dropbox.com/request/8D5u1JloFBSVFlXKg78d) and copy/paste your output into the schoology assignment.
